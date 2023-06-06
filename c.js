@@ -1,0 +1,1 @@
+var m='this is c.js'
